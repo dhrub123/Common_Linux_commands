@@ -14,3 +14,10 @@ Install Sublime Text
 Install Git
 ===========
 sudo apt-get install git
+
+Install VirtualBox
+==================
+sudo apt-get update
+sudo apt-get install virtualbox
+sudo apt-get install virtualbox—ext–pack
+
